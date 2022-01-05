@@ -38,8 +38,8 @@ ul.sub-menu > .menu-item > a.menu-link {
     color: #000000 !important;
   }
 }
-@media screen and (max-width: 544px) {
+/* @media screen and (max-width: 544px) {
 .advice-image {
   max-width: 45vw;
 }
-}
+} */
